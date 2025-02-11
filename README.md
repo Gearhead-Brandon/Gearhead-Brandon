@@ -109,20 +109,20 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_3DViewer_v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_3DViewer_v2.0&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/CPP_3DViewer_v2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=CPP_3DViewer_v2.0&theme=algolia" />
         </a>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_Containers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_Containers&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/CPP_Containers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=CPP_Containers&theme=algolia" />
         </a>
       </td>
       </td>
        <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_BrickGame_v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_BrickGame_v2.0&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/CPP_BrickGame_v2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=CPP_BrickGame_v2.0&theme=algolia" />
         </a>
       </td>
     </tr>
@@ -133,20 +133,20 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/s21_decimal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=s21_decimal&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/C_decimal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=C_decimal&theme=algolia" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_CICD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_CICD&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/DO6_GITLAB_CICD">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=DO6_GITLAB_CICD&theme=algolia" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_SmartCalc_v1.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_SmartCalc_v1.0&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/C_SmartCalc0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=C_SmartCalc&theme=algolia" />
         </a>
       </td>
     </tr>
