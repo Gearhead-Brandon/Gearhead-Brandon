@@ -1,7 +1,7 @@
 <!-- Приветствие -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/Gearhead-Brandon" target="_blank">Denis</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">School 21 student from Surgut (Russia)</h3>
+<h3 align="center">School 21 student</h3>
 
 <!-- Контакты -->
 <div align="center">
@@ -34,7 +34,7 @@
 </div>
 
 <!-- Языки и инструменты -->
-<p align="center">
+<!-- <p align="center">
   <h3 align="center">Languages and Tools</h3>
   <p>
     <a href="https://www.cprogramming.com/">
@@ -71,10 +71,10 @@
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </a>
   </p>
-</p>
+</p> -->
 
 <!-- Статистика -->
-<p align="center">
+<!-- <p align="center">
   <h3 align="center"></h3>
   <table>
     <tr>
@@ -84,7 +84,7 @@
       </td>
     </tr>
   </table>
-</p>
+</p> -->
 
 <!-- Репозитории -->
 <p align="center">
@@ -92,9 +92,33 @@
   <table>
     <tr>
       <td align="center">
+        <a href="https://github.com/Gearhead-Brandon/JAVA_Tic_Tac_Toe_Spring_Boot_Simple">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=JAVA_Tic_Tac_Toe_Spring_Boot_Simple&theme=algolia" />
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/Gearhead-Brandon/JAVA_Tic_Tac_Toe_Spring_Boot_Security">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=JAVA_Tic_Tac_Toe_Spring_Boot_Security&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Gearhead-Brandon/JAVA_Rogue">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=JAVA_Rogue&theme=algolia" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/Gearhead-Brandon/S21_3DViewer_v2.0">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_3DViewer_v2.0&theme=algolia" />
         </a>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Gearhead-Brandon/S21_Containers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_Containers&theme=algolia" />
+        </a>
+      </td>
       </td>
        <td align="center">
         <a href="https://github.com/Gearhead-Brandon/S21_BrickGame_v2.0">
@@ -104,20 +128,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_Containers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_Containers&theme=algolia" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_Maze_CPP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_Maze_CPP&theme=algolia" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_LinuxMonitoring-v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_LinuxMonitoring-v2.0&theme=algolia" />
+        <a href="https://github.com/Gearhead-Brandon/CPP_Maze">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=CPP_Maze&theme=algolia" />
         </a>
       </td>
       <td align="center">
@@ -128,20 +140,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/S21_SQL_BOOTCAMP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_SQL_BOOTCAMP&theme=algolia" />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/Gearhead-Brandon/S21_CICD">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=S21_CICD&theme=algolia" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Gearhead-Brandon/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gearhead-Brandon&repo=s21_math&theme=algolia" />
         </a>
       </td>
       <td align="center">
